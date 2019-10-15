@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Larrry project</string>
+    <string name="mainName">LogIn</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="b_pick_a_date">PICK A DATE</string>
+    <string name="tv_birth">Birth Date</string>
+    <string name="cb_remember">Remember me</string>
+    <string name="b_login">LOG IN</string>
+    <string name="add_Hobby">Add a new Hobby</string>
+    <string name="new_hobby">Your new Hobby</string>
+    <string name="b_add_hobby">ADD HOBBY</string>
+    <string name="b_view_hobby">VIEW HOBBIES</string>
+    <string name="my_hobbyies">My Hobbies</string>
+</resources>
